@@ -6,7 +6,7 @@ First, install the [TamperMonkey](https://www.tampermonkey.net/) browser extensi
 - [Chrome Webstore](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en)
  - [FireFox](https://addons.mozilla.org/en-US/firefox/addon/violentmonkey/) (ViolentMonkey)
 
-Install this tamper monkey script **[here](https://raw.githubusercontent.com/ca-place/ca-place-script/main/script.js)**
+Install this tamper monkey script **[here](https://raw.githubusercontent.com/ca-place/ca-place-script/main/script.user.js)**
 
 The code is open source! Inspect it for yourself!
 
