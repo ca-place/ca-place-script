@@ -22,7 +22,7 @@ var accessToken;
 var currentOrderCanvas = document.createElement('canvas');
 var currentOrderCtx = currentOrderCanvas.getContext('2d');
 var currentPlaceCanvas = document.createElement('canvas');
-var template_url = 'https://i.imgur.com/7CQshKU.png'
+var template_url = 'https://i.imgur.com/Y5K1kUJ.png'
 
 const COLOR_MAPPINGS = {
     '#BE0039': 1,
