@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Canada Bot
 // @namespace
-// @version      2.0.1
+// @version      2.0.2
 // @description  For Canada!
 // @author       Canada Place Project
 // @match        https://www.reddit.com/r/place/*
