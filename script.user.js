@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Canada Bot
 // @namespace
-// @version      2.0.2
+// @version      2.0.3
 // @description  For Canada!
 // @author       Canada Place Project
 // @match        https://www.reddit.com/r/place/*
@@ -29,6 +29,7 @@ const DEFAULT_TOAST_DURATION_MS = 10000
 const COLOR_MAPPINGS = {
   '#6D001A': 0,
   '#BE0039': 1,
+  '#BD0038': 1, //a small hack as our template is wrong BE0039 is the right colour
   '#FF4500': 2,
   '#FFA800': 3,
   '#FFD635': 4,
