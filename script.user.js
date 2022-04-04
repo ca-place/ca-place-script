@@ -23,6 +23,9 @@ var currentOrderCtx = currentOrderCanvas.getContext('2d')
 var currentPlaceCanvas = document.createElement('canvas')
 var cnc_url = 'https://i.imgur.com/Y5K1kUJ.png'
 
+// Global constants
+const DEFAULT_TOAST_DURATION_MS = 10000
+
 const COLOR_MAPPINGS = {
   '#6D001A': 0,
   '#BE0039': 1,
