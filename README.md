@@ -21,5 +21,7 @@ Firefox: https://add0n.com/access-control.html?version=0.1.9&type=install
 
 Use this extension carefully, you should not enable Cross Origin Requests for any other webpages
 
+If you are getting error msg like Error in retrieving folder, that means Cross Origin Requests are not working and your CORS extensions are not set up properly
+
 ## Acknowledgement
 Inspiration from bot used by UKPlace and NLPlace
