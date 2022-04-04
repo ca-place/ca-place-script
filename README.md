@@ -19,7 +19,9 @@ Chrome: https://chrome.google.com/webstore/detail/cors-unblock/lfhmikememgdcahcd
 
 Firefox: https://add0n.com/access-control.html?version=0.1.9&type=install 
 
-Use this extension carefully, you should not enable Cross Origin Requests for any other webpages
+You'll need to click extension to enable it. 
+
+Use this extension carefully, you should not enable Cross Origin Requests for any other webpages. Try use it in incognito / do not browse other sites than Reddit
 
 If you are getting error msg like Error in retrieving folder, that means Cross Origin Requests are not working and your CORS extensions are not set up properly
 
