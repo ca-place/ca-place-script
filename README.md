@@ -16,6 +16,7 @@ Reddit seems to have stopped sending Access-Control-Allow-Origin header in the A
 To overcome this, you will need to need to install a second browser extension that disables check for Cross Origin Requests 
 
 Chrome: https://chrome.google.com/webstore/detail/cors-unblock/lfhmikememgdcahcdlaciloancbhjino/related?hl=en
+
 Firefox: https://add0n.com/access-control.html?version=0.1.9&type=install 
 
 Use this extension carefully, you should not enable Cross Origin Requests for any other webpages
