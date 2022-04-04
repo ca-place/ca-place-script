@@ -283,6 +283,7 @@ async function place(x, y, color) {
       'apollographql-client-name': 'mona-lisa',
       Authorization: `Bearer ${accessToken}`,
       'Content-Type': 'application/json',
+      'Access-Control-Allow-Origin': '*',
     },
   }).catch((error) => console.error('Error placing Pixel: ', error))
 }
