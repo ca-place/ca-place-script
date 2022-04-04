@@ -21,7 +21,7 @@ var accessToken
 var currentOrderCanvas = document.createElement('canvas')
 var currentOrderCtx = currentOrderCanvas.getContext('2d')
 var currentPlaceCanvas = document.createElement('canvas')
-var cnc_url = 'https://i.imgur.com/y7CoPhr.png'
+var cnc_url = 'https://i.imgur.com/994LRNs.png'
 
 // Global constants
 const DEFAULT_TOAST_DURATION_MS = 10000
