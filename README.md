@@ -7,7 +7,11 @@ First, install the [TamperMonkey](https://www.tampermonkey.net/) browser extensi
 - [Chrome Webstore](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en)
  - [FireFox](https://addons.mozilla.org/en-US/firefox/addon/violentmonkey/) (ViolentMonkey)
 
+## For new flag (right side of map)
 Install this tamper monkey script **[here](https://raw.githubusercontent.com/ca-place/ca-place-script/main/script.user.js)**
+
+## For original flag
+Install this tamper monkey script **[here](https://raw.githubusercontent.com/ca-place/ca-place-script/main/old-bot/script.user.js)**
 
 The code is open source! Inspect it for yourself!
 
