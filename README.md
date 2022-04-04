@@ -10,4 +10,12 @@ Install this tamper monkey script **[here](https://raw.githubusercontent.com/ca-
 
 The code is open source! Inspect it for yourself!
 
-Based off of UKPlace and NLPlace
+## Update
+Reddit seems to have stopped sending Access-Control-Allow-Origin header in the API we use to get the current canvas. Likely this is a countermeasure to all the botting. 
+
+To overcome this, you will need to need to install a Chrome extension that disables check for Cross Origin Requests https://chrome.google.com/webstore/detail/cors-unblock/lfhmikememgdcahcdlaciloancbhjino/related?hl=en
+
+Use this extension carefully, you should not enable Cross Origin Requests for any other webpages
+
+## Acknowledgement
+Inspiration from bot used by UKPlace and NLPlace
