@@ -13,7 +13,10 @@ The code is open source! Inspect it for yourself!
 ## Update
 Reddit seems to have stopped sending Access-Control-Allow-Origin header in the API we use to get the current canvas. Likely this is a countermeasure to all the botting. 
 
-To overcome this, you will need to need to install a Chrome extension that disables check for Cross Origin Requests https://chrome.google.com/webstore/detail/cors-unblock/lfhmikememgdcahcdlaciloancbhjino/related?hl=en
+To overcome this, you will need to need to install a second browser extension that disables check for Cross Origin Requests 
+
+Chrome: https://chrome.google.com/webstore/detail/cors-unblock/lfhmikememgdcahcdlaciloancbhjino/related?hl=en
+Firefox: https://add0n.com/access-control.html?version=0.1.9&type=install 
 
 Use this extension carefully, you should not enable Cross Origin Requests for any other webpages
 
